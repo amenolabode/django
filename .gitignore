@@ -1,0 +1,9 @@
+/newvenv/*
+newvenv/
+newvenv/*
+./newvenv/
+
+.vscode/
+/.vscode
+.vscode/*
+.vscode
